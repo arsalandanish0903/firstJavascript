@@ -11,3 +11,8 @@ let myFun = function(){
     
 }
 console.log(typeof myFun);
+
+//--------------------------------------------------------------------------
+
+
+// stack(primitive datatypes)  heap(Non-primitive datatypes)
